@@ -1,0 +1,161 @@
+ *{
+     margin: 0px;
+     padding: 0px;
+ }
+ .out{
+    width:1100px;
+    height:1250px;
+    background-color: white;
+    margin-left: 10rem;
+    padding-top:10px;
+    
+}
+
+body{
+    background-color: grey;
+}
+
+
+.top-font  li{
+    list-style-type: none;
+    float:left;
+    margin-right:10px;
+    font-family: sans-serif;
+
+
+    
+}
+.top-font li a{
+    
+    color: black;
+    text-decoration: none;
+}
+.top{
+    margin-left: 38rem;
+}
+.top-nav{
+    padding-top: 4rem;
+
+}
+.top-nav ul li{
+
+    list-style-type: none;
+    float:left;
+    padding:15px;
+    padding-left: 21.3px;
+    padding-right: 21.3px;
+    background-color:#e6e6e6;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: medium;
+
+}
+.menu:hover{
+    color: white;
+    background-color:darkblue;
+    
+    
+}
+.logo{
+    margin-top: 3px;
+}
+.part1 li{
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+.part1{
+    width: 200px;
+    padding-left: 30px;
+    padding-top:20px;
+    
+}
+.part1 li{
+    
+    border-bottom-style:solid;
+    border-left-style: none;
+    border-right-style: none;
+    border-width: 0.0111ch;
+    border-color: darkgrey;
+    font-size:14px;
+    color:#444;
+    list-style: square;
+    font-family: sans-serif;
+    
+}
+.fields{
+    text-decoration: none;
+    color: #444;
+
+}
+.part1 li:hover{
+    background-color: rgb(164, 164, 165,0.1);
+    list-style-type: none;
+    padding:8px
+
+}
+.fields:hover{
+    color: darkblue;
+
+}
+.fields:active{
+    font-weight: bold;
+
+}
+.part2{
+    width:500px;
+    height: auto;
+}
+.link1{
+    display: block;
+    width: 300px;
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size:14px;
+    word-spacing: 3px;
+    margin-top: 2rem;
+    
+}
+.link1:hover{
+    background-color: darkblue;
+    color: white;
+}
+.part2 p{
+    text-indent: 2rem;
+    text-align: justify;
+    line-height: 1.5rem;
+}
+.box{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.parties{
+    display: block;
+}
+.parties:hover{
+    
+    border-bottom-style: solid;
+    border-bottom-color: darkblue;
+    border-width: 3px;
+}
+.info{
+    color: darkgreen;
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: bold;
+
+
+}
+.footer{
+    width:1090px ;
+    height:40px;
+    background-color:darkred;
+       color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+}
